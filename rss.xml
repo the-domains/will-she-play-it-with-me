@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I play because I love games, she plays because she loves me.]]></title>
-        <description><![CDATA[I play because I love games, she plays because she loves me.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Will she play it with me?]]></title>
+        <description><![CDATA[Will she play it with me?]]></description>
+        <link>https://thegrid.ai/will-she-play-it-with-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 22:14:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 15:16:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/will-she-play-it-with-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40da99c4-8562-4109-84b6-87b4e9fcf69a.jpg">]]></description>
+            <link>https://thegrid.ai/will-she-play-it-with-me/18b90bd8-ee06-4634-a6b3-47fc27fd35e8/index.html</link>
+            <guid isPermaLink="false">18b90bd8-ee06-4634-a6b3-47fc27fd35e8</guid>
+            <pubDate>Wed, 06 Jan 2016 15:16:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/685139e7-fb97-471c-964e-6464ed4d94bf.jpg">]]></description>
-            <link>undefinedef10c776-b8b9-4897-bff0-5142ced7162f/index.html</link>
+            <link>https://thegrid.ai/will-she-play-it-with-me/ef10c776-b8b9-4897-bff0-5142ced7162f/index.html</link>
             <guid isPermaLink="false">ef10c776-b8b9-4897-bff0-5142ced7162f</guid>
             <pubDate>Mon, 04 Jan 2016 22:14:13 GMT</pubDate>
         </item>
